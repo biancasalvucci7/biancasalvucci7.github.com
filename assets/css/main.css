@@ -100,7 +100,7 @@
 }
 
 .about-me {
-	background-image: url("/portfolio/bsalvucci.github.com/assets/images/pizarra.jpg");
+	background-image: url("../images/pizarra.jpg");
 	border: 1px solid black;
 	text-align: center;
 	border: 5px solid black;
